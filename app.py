@@ -1,6 +1,5 @@
 from flask import Flask, render_template, request, jsonify
-import openai, time, paramiko, json
-import os
+import openai, time, paramiko, json, os
 from dotenv import load_dotenv
 
 # Load environment variables
