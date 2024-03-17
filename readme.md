@@ -51,6 +51,7 @@ https://github.com/IsJustJason/openai-assistants-ui/assets/44307756/44dbde56-d22
 2. **Set Up a Virtual Environment (Optional but recommended)**
 
    ```bash
+   pip install virtualenv
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
