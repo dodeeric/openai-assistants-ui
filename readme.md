@@ -26,7 +26,7 @@ https://github.com/IsJustJason/openai-assistants-ui/assets/44307756/44dbde56-d22
 ## Technology Stack
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Python Flask
+- **Backend**: Python Flask (web micro-framework)
 - **API**: OpenAI's Assistant API
 
 ## Getting Started
