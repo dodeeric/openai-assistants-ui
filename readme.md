@@ -45,7 +45,7 @@ https://github.com/IsJustJason/openai-assistants-ui/assets/44307756/44dbde56-d22
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/IsJustJason/openai-assistants-ui.git
+   git clone https://github.com/dodeeric/openai-assistants-ui.git
    cd openai-assistants-ui
 
 2. **Set Up a Virtual Environment (Optional but recommended)**
