@@ -19,8 +19,8 @@ https://github.com/IsJustJason/openai-assistants-ui/assets/44307756/44dbde56-d22
 - File attachment to assistant
 - Function calls get displayed in chat history
 - Potential confirmation from user when running functions
-- Secrets functionality for better authenication
-- Microphone voice input(Work in Progress)
+- Secrets functionality for better authentication
+- Microphone voice input (Work in Progress)
 - Voice playback
 
 ## Technology Stack
