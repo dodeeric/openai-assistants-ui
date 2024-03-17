@@ -14,7 +14,7 @@ https://github.com/IsJustJason/openai-assistants-ui/assets/44307756/44dbde56-d22
 
 ## TODO/Wishlist
 
-- Asssitants picker
+- Assitants picker
 - Thread viewer/save with summary title
 - File attachment to assistant
 - Function calls get displayed in chat history
