@@ -34,9 +34,8 @@ https://github.com/IsJustJason/openai-assistants-ui/assets/44307756/44dbde56-d22
 ### Prerequisites
 
 - Python 3
-- Flask
-- Paramiko
-- OpenAI API key
+- Dependencies: Flask, Paramiko, OpenAI
+- OpenAI: API key, Assistant id
 
 ### Installation
 
