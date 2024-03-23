@@ -59,7 +59,13 @@ https://github.com/IsJustJason/openai-assistants-ui/assets/44307756/44dbde56-d22
    ```bash
    pip install Flask openai paramiko virtualenv
 
-4. **Set Up Environment Variables**
+4. **Setup Assistant and Functions**
+
+   Build your assistant on the OpenAI website https://platform.openai.com/assistants
+
+   Add Functions to it and then update the switch case in app.py to include your functions.
+   
+5. **Set Up Environment Variables**
    ```bash
    nano .env
    export OPENAI_API_KEY="your_api_key_here (sk-...)"
@@ -67,12 +73,6 @@ https://github.com/IsJustJason/openai-assistants-ui/assets/44307756/44dbde56-d22
    export USERNAME_ENV_VAR="your_username_here"
    export PASSWORD_ENV_VAR="your_password_here"
    source .env
-
-5. **Setup Assistant and Functions**
-
-   Build your assistant on the OpenAI website https://platform.openai.com/assistants
-
-   Add Functions to it and then update the switch case in app.py to include your functions.
 
 6. **Run the Application**
    ```bash
