@@ -67,12 +67,10 @@ https://github.com/IsJustJason/openai-assistants-ui/assets/44307756/44dbde56-d22
    
 5. **Set Up Environment Variables**
    ```bash
-   nano .env
    export OPENAI_API_KEY="your_api_key_here (sk-...)"
    export OPENAI_ASSISTANT_ID="your_assistant_id_here (asst_...)"
    export USERNAME_ENV_VAR="your_username_here"
    export PASSWORD_ENV_VAR="your_password_here"
-   source .env
 
 6. **Run the Application**
    ```bash
