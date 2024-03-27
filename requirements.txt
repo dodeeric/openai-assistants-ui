@@ -1,4 +1,4 @@
-Flask
+flask
 openai
 paramiko
 python-dotenv
