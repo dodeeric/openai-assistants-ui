@@ -57,7 +57,7 @@ https://github.com/IsJustJason/openai-assistants-ui/assets/44307756/44dbde56-d22
 
 3. **Install Dependencies**
    ```bash
-   pip install Flask openai paramiko python-dotenv
+   pip install flask openai paramiko python-dotenv
 
 4. **Setup Assistant and Functions**
 
