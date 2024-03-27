@@ -78,6 +78,8 @@ https://github.com/IsJustJason/openai-assistants-ui/assets/44307756/44dbde56-d22
 
 **Usage**
    
+   Depending of the platform, go to 127.0.0.1:8080 or 127.0.0.1:5000.
+   
    Enter your prompt to your assistant and hit enter or click Send button.
    
    Your prompt will be sent to the AI and the AI's response will be displayed in the chat history.
