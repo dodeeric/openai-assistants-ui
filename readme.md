@@ -56,10 +56,6 @@ https://github.com/IsJustJason/openai-assistants-ui/assets/44307756/44dbde56-d22
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 3. **Install Dependencies**
-   ```bash
-   pip install flask openai paramiko python-dotenv
-
-or
 
    ```bash
    pip install -r requirements.txt
