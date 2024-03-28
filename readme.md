@@ -80,6 +80,8 @@ https://github.com/IsJustJason/openai-assistants-ui/assets/44307756/44dbde56-d22
 **Usage**
    
    Go to 127.0.0.1:8080.
+
+   This code can be deployed to Google Cloud Run without any adaptation.
    
    Enter your prompt to your assistant and hit enter or click Send button.
    
